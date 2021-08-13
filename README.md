@@ -1,7 +1,5 @@
 # Introduction to matlab 
 --
-##EXAMPLES 
---
-CLASSIFICATION 
--- 
-CLUSTERING
+EXAMPLES 
+--##CLASSIFICATION 
+--##CLUSTERING
